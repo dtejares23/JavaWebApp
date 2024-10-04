@@ -20,9 +20,11 @@
         <input type="password" id="password" name="password" required><br><br>
         <button type="submit">Login</button>
     </form>
+    <!-- 
     <p th: if="${param.error}" style="color:red;">
     	Invalid credentials. Please try again.
     </p>
+     -->
 </body>
 </html>
 
